@@ -22,3 +22,5 @@ require "yaml"
 #load_library = YAML.load_file("./lib/emoticons.yml")
 
 #p load_library["angel"][0]
+
+p get_meaning[o_O]
