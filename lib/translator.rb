@@ -2,6 +2,9 @@ require "yaml"
 
  def load_library(emoticon_file)
    load_library = YAML.load_file("./lib/emoticons.yml")
+   
+   "get_meaning" = Hash.new 
+   get_meaning[n[1]] = k 
  
  end
 
